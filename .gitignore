@@ -1,0 +1,13 @@
+/node_modules/
+/dist/
+/.git/
+.idea
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
+/css/libs.min.css
+/css/styles.min.css
+/css/libs.min.css.map
+/css/styles.min.css.map
+/js/script.min.js
